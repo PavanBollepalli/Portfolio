@@ -1,0 +1,21 @@
+{
+  "name": "Pavan Bollepalli - Freelance",
+  "short_name": "Pavan Bollepalli",
+  "description": "Hire Pavan Bollepalli, a skilled freelance developer specializing in web dev, app dev, aws and many more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EFF0EF",
+  "theme_color": "#2D2A32",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "developer"],
+  "lang": "en",
+  "dir": "ltr"
+}
